@@ -1,0 +1,44 @@
+This is an open-source project base on libretro.
+
+Thank for following project.
+
+https://github.com/libretro
+https://github.com/duchengzhen/MAME4droid
+https://github.com/Swordfish90/Lemuroid
+https://github.com/dolphin-emu/dolphin
+https://github.com/citra-emu/citra
+https://github.com/hrydgard/ppsspp
+https://github.com/AetherSX2/AetherSX2
+https://github.com/jpd002/Play-
+https://github.com/flyinghead/flycast
+https://github.com/Yabause/yabause
+https://github.com/yuzu-emu/yuzu
+https://github.com/TeamAmaze/AmazeFileManager
+https://github.com/mozilla-mobile/firefox-android
+
+
+Support List :
+Atari
+Nintendo
+Super Nintendo
+Game Boy
+Game Boy Color
+Game Boy Advance
+Sega Genesis
+Sega CD
+Sega Master System
+Nintendo 64
+Nintendo DS
+MAME
+PSX
+PSP
+DOS
+CPS1
+CPS2
+PS2
+WII
+3DS
+Dreamcast
+Nintendo Switch
+
+
