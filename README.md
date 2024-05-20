@@ -56,6 +56,6 @@ This app does not work without your own game files. you need install roms first.
 - Nintendo Switch
 
 ## Policy :
-[Privacy Policy]([https://emuall.github.io/app/ps2/](https://emucircle.github.io/privacy_policy.html))
-[Third Party Notices]([https://emuall.github.io/app/ps2/](https://emucircle.github.io/3rdparty.html))
+- [Privacy Policy](https://emucircle.github.io/privacy_policy.html)
+- [Third Party Notices](https://emucircle.github.io/3rdparty.html)
 
